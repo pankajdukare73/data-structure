@@ -1,4 +1,5 @@
-/* `                                Data Structure
+/*author:pankaj dukare
+                                    Data Structure
 defination:
       1>data structure is storage that is used to store and oraganize data.
       2>we efficiently perform opertion like travesing accesing searching sorting updating on it.
