@@ -1,4 +1,5 @@
-/*                      Array
+/*author:pankaj dukare
+                        Array
     1>Array is collection os similar data type.
     2>that can be store in continuos memory location
     3>syntax:
