@@ -1,5 +1,5 @@
 /*
-                Linear Serch
+                Linear Search
     1>linear search is sequential searching algorithm.
     2>it start from one end and check every element until desired element found.
     3>it is simplest searching algorithm.
@@ -47,5 +47,5 @@ void main()
     int len;
     len=sizeof(a)/sizeof(a[0]);// fined length of array
     traversal(a,len);//traversal function return array element
-    searche(a,len); //method call for linear serch
+    searche(a,len); //method call for linear search
 }
