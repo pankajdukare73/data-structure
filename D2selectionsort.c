@@ -1,7 +1,7 @@
 /*
                     selection sort
     1>selction sort is sorting algorith.
-    2>in selction sort select the minimum element from array and placed at beganing of the array.
+    2>in selction sort select the minimum element from unsorted array and placed at beganing of the sorted array.
 */
 #include <stdio.h>
 //traversal array
